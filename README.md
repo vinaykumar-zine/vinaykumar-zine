@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Job-Portal backend
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about NodeJs, ExpressJs
+- 📫 How to reach me: vkumarzine@gmail.com
+
+
 <!--
 **vinaykumar-zine/vinaykumar-zine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
