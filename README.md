@@ -2,7 +2,7 @@
   [![MasterHead](https://media.licdn.com/dms/image/D5612AQGHScCnXzgIfQ/article-cover_image-shrink_600_2000/0/1658503736752?e=2147483647&v=beta&t=BAcjX_VjoMv99yy1mp_zG3opdDmnqL_aeKLiojo8_Sw)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vinaykumar Zine</h1>
-<h3 align="center">A Passionate Software developer from India</h3>
+<h3 align="center">A Passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
 
