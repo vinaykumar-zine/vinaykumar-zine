@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit-prajapati-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-prajapati-in" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit_2001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amit_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amit_2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinaykumar-zine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaukumar-zine-in" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VINAYKUMAR12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaykumar-zine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
