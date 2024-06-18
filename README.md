@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **vkumarzine@gmail.com**
 
