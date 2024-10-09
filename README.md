@@ -12,8 +12,8 @@
 - 📫 How to reach me **vkumarzine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vinaykumar-zine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaukumar-zine-in" height="30" width="40" /></a>
+<p align="middle">
+<a href="https://www.linkedin.com/in/vinaykumar-zine/" target="blank"></a>
 <a href="https://leetcode.com/u/VINAYKUMAR12/" target="blank"></a>
 </p>
 
