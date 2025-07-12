@@ -12,7 +12,7 @@
 - 📫 How to reach me **vkumarzine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="middle">
+<p align="left">
 <a href="https://www.linkedin.com/in/vinaykumar-zine/" target="blank"></a>
 <a href="https://leetcode.com/u/VINAYKUMAR12/" target="blank"></a>
 </p>
